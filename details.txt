@@ -1,0 +1,5 @@
+there are many methods to pack:
+.pack    .grid
+
+varible class in tkinter:
+BooleanVar,   DoubleVar,   IntVar,   StringVar
